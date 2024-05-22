@@ -2,8 +2,8 @@
 [Card Company Customer Churn Classification]
 
 **1. Intro**
-Identify patterns and indicators that precede churn by leveraging the power of machine learning.
-By doing so, we aim to equip the business with the tools to not only predict potential customer turnover but to take proactive countermeasures to prevent it.
+<img width="1012" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/35a3c81b-685c-46df-992d-affb803d1053">
+
 
 **2. Business Question(s)**
 <img width="1025" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/a36539e6-b713-421a-8707-5c76fb92458d">
